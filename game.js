@@ -17,7 +17,7 @@ const levels = [
 	 ["tree", "tree", "flag", "tree", "tree",
 	 "animate", "animate", "animate", "animate", "animate",
 	 "water", "bridge", "water", "water","water",
-	 "", "", "", "fenceup","",
+	 "", "", "", "","",
 	 "rider", "rock", "", "","horseup"]
 	 
 	 ];	// end of levels
